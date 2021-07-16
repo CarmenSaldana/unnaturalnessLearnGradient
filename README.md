@@ -1,2 +1,12 @@
-# unnaturalnessLearnGradient
-Morphological systems often reuse the same forms in different functions, creating what is known as syncretism. While syncretism varies greatly, certain cross-linguistic tendencies are apparent. Patterns where all syncretic forms share a morphological feature value (e.g., first person, or plural number) are most common cross-linguistically, and this preference is mirrored in results from learning experiments. While this suggests a general bias towards natural (featurally homogenous) over unnatural (featurally heterogenous) patterns, little is yet known about gradients in learnability and distributions of different kinds of unnatural patterns. In this paper we assess apparent cross-linguistic asymmetries between different types of unnatural patterns in person-number verbal agreement paradigms and test their learnability in an artificial language learning experiment. We find that the cross-linguistic recurrence of unnatural patterns of syncretism in person-number paradigms is proportional to the amount of shared feature values (i.e., similarity) amongst the syncretic forms. Our experimental results further suggest that the learnability of syncretic patterns also mirrors the paradigm's degree of feature-value similarity. We propose that this gradient in learnability reflects a general bias towards similarity-based structure in morphological learning, which previous literature has shown to play a crucial role in word learning as well as in category and concept learning more generally. Our results thus support a more nuanced view of the natural-unnatural distinction in morphological paradigms, and suggest that a preference for similarity-based structure during language learning might shape the worldwide transmission and typological distribution of syncretic patterns in morphological paradigms.
+# Learnability of unnatural patterns of syncretism
+
+This repository contains all the materials needed to run the experiments and analyses reported in Saldana, Herce & Bickel (submitted) ''More or less unnatural: semantic similarity shapes the learnability and cross-linguistic distribution of syncretism in morphological paradigms''. 
+
+OSF project: https://osf.io/jpum6/
+
+
+## Experimental code
+
+
+## Data analysis
+
